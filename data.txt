@@ -6,6 +6,7 @@ https://zenodo.org/record/3537986#.Yz2Vp0zMJPZ
 File:
 "contracts.csv"
 
+INSTRUCCIONES:
 1. Descargar los datos de la pagina ZENODO
 2. Extraer el zip
 3. Entrar en la carpeta "data"
