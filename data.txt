@@ -1,0 +1,7 @@
+Data was extracted from: Zenodo
+
+Link:
+https://zenodo.org/record/3537986#.Yz2Vp0zMJPZ
+
+File:
+"contracts.csv"
